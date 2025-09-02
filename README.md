@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LaoHuaJiOfficial
-- 👀 I’m interested in @LaoHuaJiOfficial
-- 🌱 I’m currently learning @LaoHuaJiOfficial
-- 💞️ I’m looking to collaborate on @LaoHuaJiOfficial
-- 📫 How to reach me @LaoHuaJiOfficial
-- 😄 Pronouns: @LaoHuaJiOfficial
-- ⚡ Fun fact: @LaoHuaJiOfficial
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LaoHuaJiOfficial&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
